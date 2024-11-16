@@ -14,7 +14,26 @@ Descripción del proyecto: Galeria de Arte donde consultar las obras mas represe
   - Lanzar páginas mediante github pages
   - Elaborar un Readme para la presentación del proyecto
  
-## Código 
-### Código de la sección de Inicio (index) 
+## Códigos 
+### Código de la sección de Inicio 
+Código de la página index, compuesto por siete secciones las cuales son:
+ - Barra de navegación
+ - Sección de Inicio
+ - Sección ¿Qué es el arte?
+ - Sección de datos curiosos 
+ - Sección de recomendaciones 
+ - Sección de Inicio de sesión
+ - Pie de página
+
+![Texto alternativo](https://i.imgur.com/SOAx8Ly.png)
+![Texto alternativo](https://i.imgur.com/q8Hx6xK.png)
 
 ### Código de una de las secciones 
+Código de una de las secciones de la página, en este caso, sección del impresionismo, compuesto de cuatro secciones las cuales son
+ - Barra de navegación
+ - Sección de Inicio
+ - Sección de definición
+ - Sección de obras más representativas
+ - Pie de página
+![Texto alternativo](https://i.imgur.com/sgkU685.png)
+
