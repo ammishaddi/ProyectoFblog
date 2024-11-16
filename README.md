@@ -1,5 +1,6 @@
 # PROYECTO FINAL - PÁGINA WEB 
 El presente repositorio contiene el proyecto final del primer modulo del curso Frontend de DevF
+
 Descripción del proyecto: Galeria de Arte donde consultar las obras mas representativas de cada estilo, así como aprender sobre la definición y datos curiosos del arte a lo largo de la historia.
 
 ## Objetivos de aprendizaje
